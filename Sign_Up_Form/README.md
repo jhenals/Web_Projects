@@ -1,7 +1,7 @@
-#Sign Up Form
+# Sign Up Form
 This project shows a  dynamic sign up form made with HTML, CSS and a little bit of Java Script.
 
-##Description
+## Description
 Compare to the video in Udemy class, I used a new combination of gradient colors:
   Tutorial Video: 
   Changes: #4facfe -> #00f2fe
